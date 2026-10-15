@@ -54,20 +54,6 @@ mindset:   "verify before you trust the output"
 
 ---
 
-### 📌 Featured
-
-<div align="center">
-
-<a href="https://github.com/Abdulmuiz635/SideDoor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulmuiz635&repo=SideDoor&theme=tokyonight&hide_border=true&bg_color=00000000" alt="SideDoor" />
-</a>
-
-</div>
-
-**SideDoor** — a controlled lab that reproduces an MFA-bypass session hijack and the detection layer that catches it. Six context-comparison rules (four as Sigma), multi-signal correlation, and a full write-up. The defence is published, the attack tooling is withheld by design.
-
----
-
 ### 🎓 Certifications
 
 ![Microsoft](https://img.shields.io/badge/Microsoft-Data_%26_AI_Security_Engineer-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -85,10 +71,6 @@ mindset:   "verify before you trust the output"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/annafiabdulmuiz)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oladipupoabdulmuiz@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Abdulmuiz635&style=flat-square&color=38BDAE" alt="profile views" />
 
 </div>
 
